@@ -1,9 +1,9 @@
 <html>
 	<head>
-		<title>PHP Test</title>
+		<title>PHP Test - Modified Version</title>
 	</head>
 
 	<body>
-		<?php echo '<p>Hello World</p>'; ?>
+		<?php echo '<p>Hello World!!! I'm here!</p>'; ?>
 	</body>
 </html>
